@@ -1,4 +1,4 @@
-- Demo: hhttps://anhnhimblog.blogspot.com/
+- Demo: https://anhnhimblog.blogspot.com/
 - Installation:
   1. Blogger -> Theme -> Edit HTML
   2. Copy and Paste all code on template.xml
